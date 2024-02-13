@@ -1,7 +1,3 @@
-# Разработчик
-
-[alex-yellow](https://github.com/alex-yellow/)
-
 ## Описание проекта
 
 Простой список дел на Laravel.
